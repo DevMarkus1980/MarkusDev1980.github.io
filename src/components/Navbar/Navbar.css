@@ -1,11 +1,16 @@
-
 .navbar {
   background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
-  padding: 20px 40px;
+  padding: 10px; /* Padding auf ein Minimum reduzieren */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: fixed; /* Navbar bleibt oben fixiert */
+  width: 100%; /* Volle Breite der Navbar */
+  max-width: 1000px; /* Maximale Breite der Navbar */
+  margin: 0 auto; /* Zentrieren der Navbar */
+  top: 0; /* Oben an der Seite positionieren */
+  z-index: 1000; /* Stellen Sie sicher, dass die Navbar über anderen Elementen liegt */
 }
 
 .navbar-brand {
@@ -19,23 +24,41 @@
   margin: 0;
   padding: 0;
   display: flex;
+  padding-right: 10%; /* Reduzieren Sie das Padding auf der rechten Seite */
 }
 
-.navbar-menu li {
-  margin-left: 20px;
+.navbar-menu li:not(:last-child) {
+  margin-right: 1px; /* Abstand zwischen den Menüelementen */
+}
+
+.navbar-menu li:not(:last-child) {
+  margin-right: 1px; /* Abstand zwischen den Menüelementen */
 }
 
 .navbar-menu li a {
   color: var(--accent-color);
   text-decoration: none;
   padding: 8px 16px;
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: transparent;
   border: 2px solid var(--accent-color);
-  transition: var(--background-color-end) 0.3s ease, color 0.3s ease;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .navbar-menu li a:hover {
   background-color: var(--background-color-start);
   color: var(--background-color-end);
+}
+
+.logo {
+  width: 80px; /* Größe des Logos */
+  height: 80px;
+  border-radius: 50%; /* Macht das Logo rund */
+  animation: spin 15s linear infinite; /* Langsame Drehung */
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg); 
+  }
 }

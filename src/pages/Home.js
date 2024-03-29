@@ -5,7 +5,7 @@ import content from '../assets/content.json';
 
 function Home() {
   return (
-    <div>
+    <div className='content'>
       <h1>{content.home.title}</h1>
       <p>{content.home.description}</p>
     </div>

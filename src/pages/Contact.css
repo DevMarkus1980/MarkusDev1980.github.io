@@ -1,0 +1,42 @@
+.content {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.contact-methods-container {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-methods-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-method {
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+.contact-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+.contact-link i {
+  margin-right: 10px;
+  font-size: 24px;
+}
+
+.contact-link span {
+  font-size: 18px;
+}
+
+/* Weitere spezifische Stile hier hinzufügen, falls erforderlich */

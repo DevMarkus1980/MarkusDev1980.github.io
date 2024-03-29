@@ -1,20 +1,21 @@
 :root {
-  --primary-color: #82b3d3; /* Definieren Sie die primäre Farbe */
-  --secondary-color: #7a1ba0; /* Definieren Sie die sekundäre Farbe */
-  --accent-color: #92b6a0;
-  --text-color: #314137; /* Definieren Sie die Textfarbe */
-  --background-color-start:var(--secondary-color); /* Definieren Sie die Startfarbe des Hintergrundverlaufs */
+  --primary-color: #0e517d; /* Definieren Sie die primäre Farbe */
+  --secondary-color: #c41313; /* Definieren Sie die sekundäre Farbe */
+  --accent-color: #0e0b12;
+  --text-color: #fad5f0; /* Definieren Sie die Textfarbe */
+  --background-color-start: var(--secondary-color); /* Definieren Sie die Startfarbe des Hintergrundverlaufs */
   --background-color-end: var(--primary-color); /* Definieren Sie die Endfarbe des Hintergrundverlaufs */
 }
 
 body {
   margin: 0;
   padding: 0;
-  height: 100vh; /* Die Höhe des gesamten Bildschirms */
-  background: linear-gradient(135deg, var(--background-color-start), var(--background-color-end)); /* Verwenden Sie die definierten Hintergrundfarben */
-  display: flex;
-  justify-content: center; /* Zentriert den Inhalt horizontal */
-  align-items: center; /* Zentriert den Inhalt vertikal */
+  height: 100vh;
+  background: linear-gradient(135deg, var(--background-color-start), var(--background-color-end));
+  background-size: cover; /* Hintergrundgröße anpassen */
+  background-attachment: fixed; /* Hintergrund fixieren */
+  justify-content: center;
+  align-items: center;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -25,14 +26,9 @@ body {
 .content {
   text-align: center;
   color: var(--text-color); /* Verwenden Sie die definierte Textfarbe */
-  padding: 0% 10% 0% 10%;
+  padding: 100px;
 }
 
 h1 {
   font-size: 3em;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
