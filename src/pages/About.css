@@ -1,0 +1,14 @@
+/* About.css */
+
+.story-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .story-card {
+    flex: 0 0 calc(50% - 20px); /* 2 Spalten mit 20px Abstand zwischen den Karten */
+    padding: 20px; /* Padding für den Abstand zwischen den Karten */
+    box-sizing: border-box; /* Box-Sizing für korrekte Berechnung von Breite und Padding */
+  }
+  

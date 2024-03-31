@@ -1,13 +1,21 @@
 // About.js
 
 import React from 'react';
+import StoryCard from '../components/StoryCard/StoryCard';
 import content from '../assets/content.json';
+import './About.css';
 
 function About() {
   return (
-    <div className='content'>
-      <h1>{content.about.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: content.about.description }} />
+    <div className="story-card-container page-content">
+      {content.stories.map((story, index) => (
+        <StoryCard
+          key={index}
+          title={story.title}
+          text={story.text}
+          image={story.image} // Übergeben Sie den Bildpfad als Prop
+        />
+      ))}
     </div>
   );
 }

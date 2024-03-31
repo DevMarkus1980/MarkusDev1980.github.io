@@ -1,8 +1,8 @@
 :root {
-  --primary-color: #0e517d; /* Definieren Sie die primäre Farbe */
-  --secondary-color: #c41313; /* Definieren Sie die sekundäre Farbe */
+  --primary-color: #630461; /* Definieren Sie die primäre Farbe */
+  --secondary-color: #63aa13; /* Definieren Sie die sekundäre Farbe */
   --accent-color: #0e0b12;
-  --text-color: #fad5f0; /* Definieren Sie die Textfarbe */
+  --text-color: #252425; /* Definieren Sie die Textfarbe */
   --background-color-start: var(--secondary-color); /* Definieren Sie die Startfarbe des Hintergrundverlaufs */
   --background-color-end: var(--primary-color); /* Definieren Sie die Endfarbe des Hintergrundverlaufs */
 }
@@ -26,7 +26,7 @@ body {
 .content {
   text-align: center;
   color: var(--text-color); /* Verwenden Sie die definierte Textfarbe */
-  padding: 100px;
+  padding: 10%;
 }
 
 h1 {

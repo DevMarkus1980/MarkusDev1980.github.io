@@ -22,6 +22,34 @@
           "link": "https://www.instagram.com/example/"
         }
       ]
+    },
+      "stories": [
+        {
+          "title": "Story 1",
+          "text": "Dies ist die erste Geschichte.",
+          "image": "/images/story1.jpg" 
+        },
+        {
+          "title": "Story 2",
+          "text": "Dies ist die zweite Geschichte.",
+          "image": "/images/story2.jpg"
+        },
+        {
+          "title": "Story 3",
+          "text": "Dies ist die dritte Geschichte.",
+          "image": "/images/story3.jpg"
+        },
+        {
+          "title": "Story 4",
+          "text": "Dies ist die erste Geschichte.",
+          "image": "/images/story1.jpg" 
+        },
+        {
+          "title": "Story 6",
+          "text": "Dies ist die zweite Geschichte.",
+          "image": "/images/story2.jpg"
+        }
+      ]
     }
-  }
+
   

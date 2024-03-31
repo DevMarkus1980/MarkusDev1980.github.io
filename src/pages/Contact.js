@@ -1,9 +1,10 @@
 import React from 'react';
 import content from '../assets/content.json';
+import './page.css';
 
 function Contact() {
   return (
-    <div className='content'>
+    <div className='content page-content'>
       <h1>{content.contact.title}</h1>
       <p>{content.contact.description}</p>
       <div className="contact-methods-container">
