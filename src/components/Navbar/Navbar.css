@@ -13,6 +13,7 @@
   right: 0; /* Rechts an der Seite positionieren */
   margin-left: auto; /* Rechten Margin automatisch berechnen */
   margin-right: auto; /* Linken Margin automatisch berechnen */
+  z-index: 1000; 
 }
 
 .navbar-scrolled {

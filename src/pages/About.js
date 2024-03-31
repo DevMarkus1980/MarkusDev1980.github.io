@@ -3,7 +3,6 @@
 import React from 'react';
 import StoryCard from '../components/StoryCard/StoryCard';
 import content from '../assets/content.json';
-import './About.css';
 
 function About() {
   return (
@@ -17,6 +16,7 @@ function About() {
         />
       ))}
     </div>
+    
   );
 }
 

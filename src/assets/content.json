@@ -5,7 +5,7 @@
     },
     "about": {
       "title": "Über mich",
-      "description": "Herzlich willkommen auf meiner Seite! Mein Name ist Markus, und ich bin ein leidenschaftlicher Softwareentwickler mit einem breiten Erfahrungsschatz in der Informationstechnologie und einem unkonventionellen Hintergrund als Küchenchef.<br><br>Meine Reise begann mit meiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei der BFW Dortmund, wo ich die Grundlagen der Softwareentwicklung erlernte und meine Begeisterung für die digitale Welt entdeckte. Nach Abschluss meiner Ausbildung habe ich meine Fähigkeiten und Kenntnisse in verschiedenen Unternehmen weiterentwickelt, darunter die Comline GmbH und Delco Datentechnik, wo ich wertvolle Praxiserfahrung sammelte und meine Leidenschaft für innovative Lösungen vertiefte.<br><br>Parallel zu meiner beruflichen Laufbahn war ich jahrelang als Küchenchef in der Gastronomie tätig. Diese Erfahrung hat mich gelehrt, unter Druck zu arbeiten, effektiv zu kommunizieren und komplexe Projekte zu organisieren. Die strukturierte Arbeitsweise und das Streben nach Perfektion, die ich als Küchenchef entwickelt habe, sind Werte, die ich auch in meiner Tätigkeit als Softwareentwickler täglich anwende.<br><br>Als selbstständiger Softwareentwickler habe ich Projekte in verschiedenen Branchen betreut, von der App- und Webentwicklung bis hin zum Handel mit Refurbished-Geräten. Meine breite Erfahrung und mein unkonventioneller Hintergrund haben mich zu einem flexiblen und anpassungsfähigen Teammitglied gemacht, das stets bestrebt ist, innovative Lösungen zu entwickeln.<br><br>In meiner Freizeit erkunde ich gerne neue Technologien, koche leidenschaftlich gerne und verbringe Zeit in der Natur. Ich glaube fest daran, dass eine ausgewogene Work-Life-Balance entscheidend für persönliches Wachstum und beruflichen Erfolg ist.<br><br>Ich freue mich darauf, meine Fähigkeiten und Erfahrungen in einem inspirierenden Umfeld einzubringen und gemeinsam mit Ihnen innovative Lösungen zu entwickeln, die die Welt ein Stückchen besser machen."
+      "description": " Diese Erfahrung hat mich gelehrt, unter Druck zu arbeiten, effektiv zu kommunizieren und komplexe Projekte zu organisieren. Die strukturierte Arbeitsweise und das Streben nach Perfektion, die ich als Küchenchef entwickelt habe, sind Werte, die ich auch in meiner Tätigkeit als Softwareentwickler täglich anwende.<br><br>Als selbstständiger Softwareentwickler habe ich Projekte in verschiedenen Branchen betreut, von der App- und Webentwicklung bis hin zum Handel mit Refurbished-Geräten. Meine breite Erfahrung und mein unkonventioneller Hintergrund haben mich zu einem flexiblen und anpassungsfähigen Teammitglied gemacht, das stets bestrebt ist, innovative Lösungen zu entwickeln.<br><br>In meiner Freizeit erkunde ich gerne neue Technologien, koche leidenschaftlich gerne und verbringe Zeit in der Natur. Ich glaube fest daran, dass eine ausgewogene Work-Life-Balance entscheidend für persönliches Wachstum und beruflichen Erfolg ist.<br><br>Ich freue mich darauf, meine Fähigkeiten und Erfahrungen in einem inspirierenden Umfeld einzubringen und gemeinsam mit Ihnen innovative Lösungen zu entwickeln, die die Welt ein Stückchen besser machen."
     },
     "contact": {
       "title": "Kontaktieren Sie mich",
@@ -26,23 +26,23 @@
       "stories": [
         {
           "title": "Story 1",
-          "text": "Dies ist die erste Geschichte.",
-          "image": "/images/story1.jpg" 
+          "text": "Herzlich willkommen auf meiner Seite! Mein Name ist Markus, und ich bin ein leidenschaftlicher Softwareentwickler mit einem breiten Erfahrungsschatz in der Informationstechnologie und einem unkonventionellen Hintergrund als Küchenchef.",
+          "image": "/images/bild1.jpg"
         },
         {
           "title": "Story 2",
-          "text": "Dies ist die zweite Geschichte.",
-          "image": "/images/story2.jpg"
+          "text": "Meine Reise begann mit meiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei der BFW Dortmund, wo ich die Grundlagen der Softwareentwicklung erlernte und meine Begeisterung für die digitale Welt entdeckte.",
+          "image": "/images/bild2.jpg"
         },
         {
           "title": "Story 3",
-          "text": "Dies ist die dritte Geschichte.",
-          "image": "/images/story3.jpg"
+          "text": "Nach Abschluss meiner Ausbildung habe ich meine Fähigkeiten und Kenntnisse in verschiedenen Unternehmen weiterentwickelt, darunter die Comline GmbH und Delco Datentechnik, wo ich wertvolle Praxiserfahrung sammelte und meine Leidenschaft für innovative Lösungen vertiefte. Parallel zu meiner beruflichen Laufbahn war ich jahrelang als Küchenchef in der Gastronomie tätig."
+          
         },
         {
           "title": "Story 4",
           "text": "Dies ist die erste Geschichte.",
-          "image": "/images/story1.jpg" 
+          "image": "/images/bild3.jpg" 
         },
         {
           "title": "Story 6",
