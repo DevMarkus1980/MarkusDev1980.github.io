@@ -3,10 +3,6 @@
       "title": "Herzlich willkommen!",
       "description": " Auf dieser Webseite finden Sie alles, was Sie über meine Arbeit, Projekte und Leidenschaften wissen müssen. Tauchen Sie ein und entdecken Sie mehr über meine Welt der Softwareentwicklung, kulinarischen Abenteuer und vieles mehr."
     },
-    "about": {
-      "title": "Über mich",
-      "description": " Diese Erfahrung hat mich gelehrt, unter Druck zu arbeiten, effektiv zu kommunizieren und komplexe Projekte zu organisieren. Die strukturierte Arbeitsweise und das Streben nach Perfektion, die ich als Küchenchef entwickelt habe, sind Werte, die ich auch in meiner Tätigkeit als Softwareentwickler täglich anwende.<br><br>Als selbstständiger Softwareentwickler habe ich Projekte in verschiedenen Branchen betreut, von der App- und Webentwicklung bis hin zum Handel mit Refurbished-Geräten. Meine breite Erfahrung und mein unkonventioneller Hintergrund haben mich zu einem flexiblen und anpassungsfähigen Teammitglied gemacht, das stets bestrebt ist, innovative Lösungen zu entwickeln.<br><br>In meiner Freizeit erkunde ich gerne neue Technologien, koche leidenschaftlich gerne und verbringe Zeit in der Natur. Ich glaube fest daran, dass eine ausgewogene Work-Life-Balance entscheidend für persönliches Wachstum und beruflichen Erfolg ist.<br><br>Ich freue mich darauf, meine Fähigkeiten und Erfahrungen in einem inspirierenden Umfeld einzubringen und gemeinsam mit Ihnen innovative Lösungen zu entwickeln, die die Welt ein Stückchen besser machen."
-    },
     "contact": {
       "title": "Kontaktieren Sie mich",
       "description": "Wenn Sie Fragen haben, weitere Informationen benötigen oder einfach nur Hallo sagen möchten, zögern Sie nicht, mich zu kontaktieren. Ich freue mich darauf, von Ihnen zu hören!",
@@ -23,33 +19,41 @@
         }
       ]
     },
+    
       "stories": [
         {
-          "title": "Story 1",
-          "text": "Herzlich willkommen auf meiner Seite! Mein Name ist Markus, und ich bin ein leidenschaftlicher Softwareentwickler mit einem breiten Erfahrungsschatz in der Informationstechnologie und einem unkonventionellen Hintergrund als Küchenchef.",
+          "title": "09-2023 bis heute Selbstständig/Freiberuflich",
+          "text": "Herzlich willkommen auf meiner Seite! Mein Name ist Markus, und ich bin ein leidenschaftlicher Softwareentwickler mit einem breiten Erfahrungsschatz in der Informationstechnologie und einem unkonventionellen Hintergrund als Küchenchef.\nSeit September 2023 arbeite ich selbstständig als Softwareentwickler und betreibe gleichzeitig einen Hardwarehandel. In dieser Zeit habe ich umfassende Erfahrungen in der App- und Webentwicklung gesammelt und mich auch im Bereich Refurbished-Geräte engagiert.",
           "image": "/images/bild1.jpg"
         },
         {
-          "title": "Story 2",
-          "text": "Meine Reise begann mit meiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei der BFW Dortmund, wo ich die Grundlagen der Softwareentwicklung erlernte und meine Begeisterung für die digitale Welt entdeckte.",
+          "title": "02-2023 bis 09-2024 Kuchenmeister GmbH, Soest",
+          "text": "Während meiner Zeit bei der Kuchenmeister GmbH von Februar 2023 bis September 2024 habe ich meine Fähigkeiten als Softwareentwickler weiter ausgebaut. Dort arbeitete ich intensiv mit Technologien wie C#, Java, TypeScript, NodeJS, React und Spring Boot.\nZusätzlich habe ich Erfahrungen mit AS-400, MySQL und Postgres gesammelt und war maßgeblich an der Entwicklung von Apps und Webanwendungen beteiligt.",
           "image": "/images/bild2.jpg"
         },
         {
-          "title": "Story 3",
-          "text": "Nach Abschluss meiner Ausbildung habe ich meine Fähigkeiten und Kenntnisse in verschiedenen Unternehmen weiterentwickelt, darunter die Comline GmbH und Delco Datentechnik, wo ich wertvolle Praxiserfahrung sammelte und meine Leidenschaft für innovative Lösungen vertiefte. Parallel zu meiner beruflichen Laufbahn war ich jahrelang als Küchenchef in der Gastronomie tätig."
-          
+          "title": "01-2023 bis 01-2021 Ausbildung zum Fachinformatiker, BFW Dortmund",
+          "text": "Meine berufliche Reise begann mit meiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei der BFW Dortmund von Januar 2023 bis Januar 2021. Dort erwarb ich fundierte Kenntnisse in den Bereichen Softwareentwicklung und Anwendungsentwicklung, die mich auf meine weitere Karriere vorbereiteten."
         },
         {
-          "title": "Story 4",
-          "text": "Dies ist die erste Geschichte.",
-          "image": "/images/bild3.jpg" 
+          "title": "11-2021 bis 01-2023 Praktikum Comline GmbH, Dortmund",
+          "text": "Im Anschluss absolvierte ich von November 2021 bis Januar 2023 ein Praktikum bei der Comline GmbH in Dortmund im Bereich Customer Care. Während meiner Zeit dort war ich am Projekt CMDB beteiligt und konnte meine Kenntnisse im Umgang mit PostgreSQL DBMS vertiefen.\nDarüber hinaus arbeitete ich mit Tools wie Jira und GitLab zur Projektverwaltung und Versionsverwaltung."
         },
         {
-          "title": "Story 6",
-          "text": "Dies ist die zweite Geschichte.",
-          "image": "/images/story2.jpg"
+          "title": "01-2021 bis 10-2021 Praktikum Delco Datentechnik, Lippstadt",
+          "text": "Vor meinem Praktikum bei der Comline GmbH war ich von Januar 2021 bis Oktober 2021 bei Delco Datentechnik in Lippstadt tätig. Dort sammelte ich Erfahrungen im Bereich Warenwirtschaft und Zeiterfassung und entwickelte Warenwirtschaftssysteme mit Delphi/Pascal.\nDes Weiteren erlangte ich Grundkenntnisse in der Arbeit mit Firebird-Datenbanken."
+        },
+        {
+          "title": "12-2020 bis 07-2005 Tätigkeit als Küchenchef",
+          "text": "Bevor ich mich vollständig der Informationstechnologie widmete, war ich von Dezember 2020 bis Juli 2005 in verschiedenen Positionen als Küchenchef tätig. Diese Erfahrung hat meine Fähigkeiten in strukturiertem Arbeiten und Teamführung gestärkt sowie meine Kreativität und mein Problemlösungsvermögen geschärft."
+        },
+        {
+          "title": "Weiterbildungen",
+          "text": "Darüber hinaus habe ich mich kontinuierlich weitergebildet, um meine Kenntnisse und Fähigkeiten zu erweitern. Dazu gehören unter anderem Schulungen in SAP ERP, Linux-Kommandozeilen, Algorithmen und Datenstrukturen in Java sowie KI und maschinelles Lernen."
         }
       ]
     }
+    
+    
 
   
