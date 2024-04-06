@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/homepage_markus_dev/static/css/main.10b79ce6.css",
+    "main.js": "/homepage_markus_dev/static/js/main.47d9d103.js",
+    "static/js/453.350749cb.chunk.js": "/homepage_markus_dev/static/js/453.350749cb.chunk.js",
+    "static/media/logo.png": "/homepage_markus_dev/static/media/logo.897554cd5d6f8078bd5d.png",
+    "index.html": "/homepage_markus_dev/index.html",
+    "main.10b79ce6.css.map": "/homepage_markus_dev/static/css/main.10b79ce6.css.map",
+    "main.47d9d103.js.map": "/homepage_markus_dev/static/js/main.47d9d103.js.map",
+    "453.350749cb.chunk.js.map": "/homepage_markus_dev/static/js/453.350749cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b79ce6.css",
+    "static/js/main.47d9d103.js"
+  ]
+}
